@@ -1,0 +1,92 @@
+body {
+  background-color: black;
+}
+
+.links {
+  text-decoration: none;
+  color: #ece6e2;
+}
+
+#Branding {
+  font-size: 25px;
+  color: #ece6e2;
+  position: relative;
+  bottom: 29px;
+  left: 1020px;
+}
+
+#Ui {
+  font-size: 25px;
+  color: #ece6e2;
+  position: relative;
+  bottom: 57px;
+  left: 1220px;
+}
+
+#graphics {
+  font-size: 25px;
+  color: #ece6e2;
+  position: relative;
+  bottom: 86px;
+  left: 1400px;
+}
+
+#VedantGhia {
+  font-size: 25px;
+  color: #ece6e2;
+  position: relative;
+  margin-top: 30px;
+  margin-left: 65px;
+}
+
+.herotext {
+  scale: 60%;
+  position: relative;
+  bottom: 150px;
+  right: 270px;
+}
+
+#curry {
+  scale: 40%;
+  position: relative;
+  border-radius: 50px;
+  bottom: 500px;
+  right: 100px;
+}
+
+#travy {
+  scale: 36%;
+  position: relative;
+  border-radius: 50px;
+  bottom: 1515px;
+  left: 450px;
+}
+
+#ronny {
+  scale: 36%;
+  position: relative;
+  border-radius: 50px;
+  bottom: 2592px;
+  left: 1000px;
+}
+
+#Anime {
+  scale: 21%;
+  position: relative;
+  bottom: 2970px;
+  right: 665px;
+}
+
+#sad {
+  scale: 23%;
+  position: relative;
+  bottom: 3210px;
+  left: 500px;
+}
+
+#bust {
+  scale: 20%;
+  position: relative;
+  bottom: 3420px;
+  right: 140px;
+}

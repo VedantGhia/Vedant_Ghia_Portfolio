@@ -1,0 +1,92 @@
+body {
+  background-color: black;
+}
+
+.links {
+  text-decoration: none;
+  color: #ece6e2;
+}
+
+#Branding {
+  font-size: 25px;
+  color: #ece6e2;
+  position: relative;
+  bottom: 29px;
+  left: 1070px;
+}
+
+#Ui {
+  font-size: 25px;
+  color: #ece6e2;
+  position: relative;
+  bottom: 57px;
+  left: 1260px;
+}
+
+#Sketches {
+  font-size: 25px;
+  color: #ece6e2;
+  position: relative;
+  bottom: 86px;
+  left: 1450px;
+}
+
+#VedantGhia {
+  font-size: 25px;
+  color: #ece6e2;
+  position: relative;
+  margin-top: 30px;
+  margin-left: 65px;
+}
+
+.herotext {
+  scale: 70%;
+  position: relative;
+  bottom: 110px;
+  right: 200px;
+}
+
+#curry {
+  scale: 40%;
+  position: relative;
+  border-radius: 50px;
+  bottom: 450px;
+  right: 100px;
+}
+
+#travy {
+  scale: 40%;
+  position: relative;
+  border-radius: 50px;
+  bottom: 1420px;
+  left: 450px;
+}
+
+#ronny {
+  scale: 43%;
+  position: relative;
+  border-radius: 50px;
+  bottom: 2350px;
+  left: 1000px;
+}
+
+.curry_text {
+  scale: 35%;
+  position: relative;
+  bottom: 2700px;
+  right: 460px;
+}
+
+.trvy {
+  scale: 41%;
+  position: relative;
+  bottom: 3057px;
+  left: 84px;
+}
+
+.cr7 {
+  scale: 55%;
+  position: relative;
+  bottom: 3303px;
+  left: 734px;
+}

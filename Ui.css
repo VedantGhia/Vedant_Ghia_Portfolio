@@ -1,0 +1,62 @@
+body {
+  background-color: black;
+}
+
+.links {
+  text-decoration: none;
+  color: #ece6e2;
+}
+
+#Branding {
+  font-size: 25px;
+  color: #ece6e2;
+  position: relative;
+  bottom: 29px;
+  left: 1020px;
+}
+
+#graphics {
+  font-size: 25px;
+  color: #ece6e2;
+  position: relative;
+  bottom: 57px;
+  left: 1200px;
+}
+
+#Sketches {
+  font-size: 25px;
+  color: #ece6e2;
+  position: relative;
+  bottom: 86px;
+  left: 1450px;
+}
+
+#VedantGhia {
+  font-size: 25px;
+  color: #ece6e2;
+  position: relative;
+  margin-top: 30px;
+  margin-left: 65px;
+}
+
+.herotext {
+  scale: 70%;
+  position: relative;
+  bottom: 110px;
+  right: 185px;
+}
+
+#curry {
+  scale: 50%;
+  position: relative;
+  border-radius: 50px;
+  bottom: 390px;
+  right: 320px;
+}
+
+#lock {
+  scale: 75%;
+  position: relative;
+  bottom: 1150px;
+  left: 778px;
+}

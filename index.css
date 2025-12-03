@@ -1,0 +1,105 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
+
+.header {
+  height: 40px;
+  width: 100%;
+  border: 10px;
+  border-color: #ece6e2;
+}
+
+#VedantGhia {
+  margin-top: 30px;
+  margin-left: 65px;
+  color: #ece6e2;
+  font-size: 25px;
+}
+
+#Contact {
+  color: #ece6e2;
+  font-size: 25px;
+  position: relative;
+  margin: 20px;
+  bottom: 48px;
+  left: 1295px;
+}
+
+#About {
+  color: #ece6e2;
+  font-size: 25px;
+  position: relative;
+  left: 1475px;
+  bottom: 97px;
+}
+
+.Portfolio {
+  width: 100%;
+  height: 330px;
+  scale: 97%;
+  position: relative;
+  left: 5px;
+}
+
+.subtext {
+  display: inline;
+}
+
+#para1 {
+  color: #ece6e2;
+  width: 400px;
+  margin-top: 10px;
+  margin-left: 35px;
+}
+
+#para2 {
+  color: #ece6e2;
+  width: 400px;
+  position: relative;
+  bottom: 55px;
+  left: 500px;
+}
+
+#main {
+  scale: 90%;
+  position: relative;
+  right: 90px;
+  bottom: 30px;
+}
+
+#gd {
+  scale: 75%;
+  position: relative;
+  bottom: 620px;
+}
+
+#sk {
+  scale: 75%;
+  position: relative;
+  bottom: 700px;
+}
+
+#br {
+  scale: 70%;
+  position: relative;
+  bottom: 1270px;
+  left: 700px;
+}
+
+#ui {
+  scale: 70%;
+  position: relative;
+  bottom: 1400px;
+  left: 900px;
+}
+
+.links {
+  text-decoration: none;
+  color: #ece6e2;
+}

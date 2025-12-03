@@ -1,0 +1,92 @@
+body {
+  background-color: black;
+}
+
+.links {
+  text-decoration: none;
+  color: #ece6e2;
+}
+
+#graphics {
+  font-size: 25px;
+  color: #ece6e2;
+  position: relative;
+  bottom: 29px;
+  left: 1000px;
+}
+
+#Ui {
+  font-size: 25px;
+  color: #ece6e2;
+  position: relative;
+  bottom: 57px;
+  left: 1260px;
+}
+
+#Sketches {
+  font-size: 25px;
+  color: #ece6e2;
+  position: relative;
+  bottom: 86px;
+  left: 1450px;
+}
+
+#VedantGhia {
+  font-size: 25px;
+  color: #ece6e2;
+  position: relative;
+  margin-top: 30px;
+  margin-left: 65px;
+}
+
+.herotext {
+  scale: 70%;
+  position: relative;
+  bottom: 110px;
+  right: 200px;
+}
+
+#curry {
+  scale: 50%;
+  position: relative;
+  border-radius: 50px;
+  bottom: 310px;
+  right: 100px;
+}
+
+#travy {
+  scale: 50%;
+  position: relative;
+  border-radius: 50px;
+  bottom: 1011px;
+  left: 400px;
+}
+
+#ronny {
+  scale: 50%;
+  position: relative;
+  border-radius: 50px;
+  bottom: 1713px;
+  left: 890px;
+}
+
+#logo {
+  scale: 42%;
+  position: relative;
+  bottom: 1930px;
+  right: 220px;
+}
+
+#collat {
+  scale: 65%;
+  position: relative;
+  bottom: 2122px;
+  left: 500px;
+}
+
+#card {
+  scale: 48%;
+  position: relative;
+  left: 853px;
+  bottom: 2274px;
+}

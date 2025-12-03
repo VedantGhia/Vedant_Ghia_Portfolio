@@ -1,0 +1,76 @@
+body {
+  background-color: black;
+}
+
+#VedantGhia {
+  margin-top: 30px;
+  margin-left: 65px;
+  color: #ece6e2;
+  font-size: 25px;
+}
+
+#Branding {
+  color: #ece6e2;
+  font-size: 25px;
+  position: relative;
+  bottom: 31px;
+  left: 1120px;
+}
+
+#Ui {
+  color: #ece6e2;
+  font-size: 25px;
+  position: relative;
+  bottom: 58px;
+  left: 1300px;
+}
+
+#About {
+  color: #ece6e2;
+  font-size: 25px;
+  position: relative;
+  bottom: 114px;
+  left: 1480px;
+}
+
+#Sketches {
+  color: #ece6e2;
+  font-size: 25px;
+  position: relative;
+  left: 940px;
+  bottom: 86px;
+}
+
+#GraphicDesign {
+  color: #ece6e2;
+  font-size: 25px;
+  position: relative;
+  left: 670px;
+  bottom: 146px;
+}
+
+.Contact_me {
+  scale: 97%;
+  position: relative;
+  bottom: 130px;
+  left: 14px;
+}
+
+.photo {
+  position: relative;
+  right: 80px;
+  top: 30px;
+}
+
+.type {
+  position: relative;
+  scale: 45%;
+  bottom: 970px;
+  left: 700px;
+  border-radius: 40px;
+}
+
+.links {
+  text-decoration: none;
+  color: #ece6e2;
+}
